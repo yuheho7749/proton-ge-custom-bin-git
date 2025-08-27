@@ -1,8 +1,9 @@
-## Maintainer:     Jaja <jaja@mailbox.org>
-## Co-Maintainer:  floriplum <floriplum@mailbox.org>
-## Co-Maintainer:  various people submitting to 'chaotic-aur' repo
+## NOTE: DO NOT CONTACT the Credits list. This PKGBUILD script is modified by yuheho7749!
+## Credits:        Jaja <jaja@mailbox.org>
+## Credits:        floriplum <floriplum@mailbox.org>
+## Credits:        various people submitting to 'chaotic-aur' repo
 ## Credits:        barfin (aka RogueGirl) <barfin@protonmail.com>
-## Edited-By:      yuheho7749 <yuheho7749 at gmail dot com>
+## Modified-By:    yuheho7749 <yuheho7749 at gmail dot com>
 
 ## Linted using:
 ##   $ shellcheck PKGBUILD -e SC2034,SC2148,SC2154
